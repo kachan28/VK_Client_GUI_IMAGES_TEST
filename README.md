@@ -1,0 +1,1 @@
+# VK_Client_GUI_IMAGES_TEST
